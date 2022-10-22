@@ -1,0 +1,14 @@
+coverage
+node_modules
+dist
+logs
+
+.env
+
+*.log
+npm-debug.log*
+
+pids
+*.pid
+*.seed
+*.pid.lock
